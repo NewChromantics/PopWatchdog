@@ -1,0 +1,16 @@
+# dont commit libraries
+*.framework/
+
+# user data
+xcuserdata/
+
+# temp build files
+Build/
+*.visualstudio/PopWatchdog*/
+*.visualstudio/PopEngine*/
+*.visualstudio/packages/
+*.user
+*.visualstudio/.vs/
+*.aps
+
+
